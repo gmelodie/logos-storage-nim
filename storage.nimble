@@ -1,4 +1,4 @@
-version = "0.4.5"
+version = "0.5.1"
 author = "Logos Storage Team"
 description = "p2p data durability engine"
 license = "MIT"
